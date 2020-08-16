@@ -2,7 +2,7 @@
 title: "Datasciencecoursera"
 author: "Saumya Pothukuchi"
 date: "15/08/2020"
-output: pdf_document
+output: word_document
 ---
 
 ```{r setup, include=FALSE}
